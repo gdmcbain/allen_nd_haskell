@@ -1,1 +1,6 @@
 language: haskell
+ghc:
+  - "8.0.1"
+env:
+  - PACKAGEDIR="14/3"
+before_install: cd ${PACKAGEDIR}
