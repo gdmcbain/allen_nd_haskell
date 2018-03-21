@@ -1,5 +1,7 @@
 name:          addition
 version:       0.1.0.0
+repository: github.com
+  url: https://github.com/gdmcbain/allen_nd_haskell/14/3            
 license-file:  LICENSE
 author:        G. D. McBain
 maintainer:    gdmcbain@protonmail.com
