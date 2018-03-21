@@ -13,4 +13,5 @@ library
   build-depends:    base >=4.7 && <5
                   , hspec
   hs-source-dirs:   .
---  default-language: Haskell 2010
+
+default-language: Haskell 2010
